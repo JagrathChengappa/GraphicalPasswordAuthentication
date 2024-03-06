@@ -1,0 +1,11 @@
+body{
+    margin-left:100px;
+    background-repeat:repeat-x;
+    font-style: italic;
+    color:black;
+    }
+form{
+    padding: 30pt;
+    margin:40pt 40pt 40pt 40pt;
+    border:solid rgb(180, 37, 56) 10px;
+}
